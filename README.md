@@ -64,7 +64,3 @@ This project demonstrates a **real-time face and eye detection** system using Py
 - **User-friendly interface** with immediate visual feedback.
 
 ---
-
-## License
-
-This project is for
